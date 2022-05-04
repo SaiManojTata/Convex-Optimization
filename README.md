@@ -1,6 +1,6 @@
 ## AI2101 - Convex Optimization 
 
-This is a 3 credit course, offered at IITH during the period Jan - May 2022. The course instructor was Dr. Aditya Siripuram.
+This is a 3 credit course, offered at IITH during the period Jan - May 2022. The course instructor was [Dr. Aditya Siripuram](https://www.iith.ac.in/ee/staditya/).
 
 **The course had 12 tutorials, primarily consisting of questions from the additional exercises of [Stephen Boyd - Additional Exercises](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook_extra_exercises.pdf)**
 
